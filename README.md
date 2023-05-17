@@ -46,9 +46,13 @@ Follow the steps below to set up the project and create a virtual environment (o
 
     Add these variables:
         HOSTNAME=
+        
         USERNAME=
+        
         PASSWORD=
+        
         PUBLIC_KEY_PATH=
+        
         PRIVATE_KEY_PATH=
 
     HOSTNAME: This refers to the hostname or IP address of the remote server you want to connect to for secure file transfer. For example, it could be something like example.com or 192.168.1.100.
