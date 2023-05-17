@@ -1,4 +1,4 @@
-## Secure File Transfer Project
+# Secure File Transfer Project
 
 This project demonstrates secure file transfer with RSA key's using the `paramiko` library in Python.
 
