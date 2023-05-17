@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore the .env file
+.env
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore public and private key files
+public_key.txt
+private_key.txt
